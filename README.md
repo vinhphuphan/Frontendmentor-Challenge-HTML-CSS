@@ -1,4 +1,4 @@
-# Frontend Mentor Challenge Submission Using HTML&CSS [![](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+# Frontend Mentor Challenge Submission Using HTML/CSS [![](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 This is my finished code to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
 
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
