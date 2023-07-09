@@ -1,4 +1,4 @@
-# Frontend Mentor - Results summary component solution
+# Frontend Mentor - Results summary component submission
 
 This is my finished code to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
 
@@ -27,10 +27,16 @@ The challenge is to build out this results summary component and get it looking 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img src = "https://raw.githubusercontent.com/vinhphuphan/results-summary-component-main/main/assets/images/Screenshot.jpg"></img>
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
+### Links
+- Live Site URL: [My live site for this challenge](https://your-live-site-url.com)
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
+### Built with
+[![](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+- Semantic HTML5 markup 
+- CSS custom properties
+- Flexbox
+- CSS Grid
 
 **Have fun building!** 🚀
