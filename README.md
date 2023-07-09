@@ -13,9 +13,7 @@ This is my finished code to the [Results summary component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 
@@ -32,11 +30,25 @@ The challenge is to build out this results summary component and get it looking 
 ### Links
 - Live Site URL: [My live site for this challenge](https://your-live-site-url.com)
 
+## My process
+
 ### Built with
 [![](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 - Semantic HTML5 markup 
 - CSS custom properties
 - Flexbox
 - CSS Grid
+
+### What I learned
+- How to initialize the color variables on the top of CSS file.
+- Use the data-item-type inside HTML div tag to add color to 4 summary score in a more quickly and reusable way.
+- Style two section in the relationship with each other.
+  
+### Useful resources
+
+ [From Design to Code - Kevin Powell](https://www.youtube.com/watch?v=KqFAs5d3Yl8&t=1656s) - I followed along the tutorial. This helped me a lot. I really liked the way he built the project and then mentored the watchers.
+
+## Acknowledgments
+Many thanks to this youtube channel and [Kevin Powell](https://www.youtube.com/@KevinPowell) for teaching me front-end content.
 
 **Have fun building!** 🚀
