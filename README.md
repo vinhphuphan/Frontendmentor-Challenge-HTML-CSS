@@ -27,7 +27,7 @@ The challenge is to build out this results summary component and get it looking 
 <img src = "https://raw.githubusercontent.com/vinhphuphan/results-summary-component-main/main/assets/images/Screenshot.jpg"></img>
 
 ### Links
-- Live Site URL: [My live site for this challenge](https://vinhphuphan.github.io/frontend-challenge-results-summary-component-main/)
+- Live Site URL: [My live site for this challenge](https://vinhphuphan.github.io/Frontendmentor-Challenge-HTML-CSS/)
 
 ## My process
 
