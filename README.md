@@ -47,7 +47,10 @@ The challenge is to build out this results summary component and get it looking 
 
  [From Design to Code - Kevin Powell](https://www.youtube.com/watch?v=KqFAs5d3Yl8&t=1656s) - I followed along the tutorial. This helped me a lot. I really liked the way he built the project and then mentored the watchers.
 
-## Acknowledgments
+### Acknowledgments
 Many thanks to this youtube channel and [Kevin Powell](https://www.youtube.com/@KevinPowell) for teaching me front-end content.
+
+### Related Projects:question: 👨‍💻 🛰️
+<code>[Hospital-Landing-Page](https://github.com/vinhphuphan/Hospital-Landing-Page/)</code> 📊
 
 **Have fun building!** 🚀
